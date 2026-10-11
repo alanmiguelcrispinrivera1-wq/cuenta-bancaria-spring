@@ -2,6 +2,8 @@
 
 **Autor:** Alan Miguel Crispin Rivera
 
+**Nota:** Aqui se encuentran los ejercicios resueltos de los 6 primeros temas de Java en la carpeta `Ejercicios-Java`
+
 ## Cómo correrlo
 
     ./correr.sh App final-app
